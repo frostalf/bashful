@@ -1,0 +1,5 @@
+name: Bashful
+description: Run OS programs on the system running the server
+version: 1.0.0-SNAPSHOT
+author: simpleauthority
+main: com.algorithmjunkie.mc.bashful.BashfulPlugin
